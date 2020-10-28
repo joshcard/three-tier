@@ -5,12 +5,12 @@ class Airtable {
     
     // 1. Browe to https://airtable.com/account
     // 2. Search for "This is your personal API key."
-    this.airtable_token = "yourAirtableAPIkeyHere"  // example: keybjiCcpZu1h4L6C
+    this.airtable_token = "keyB21EEqYsliZMR5"  // example: keybjiCcpZu1h4L6C
     
     // 1. Browse to https://airtable.com/api
     // 2. Click on the base you want to use
     // 3. Search for "The ID of this base is"
-    this.airtable_baseid = "yourBaseIDhere" // example: appYpPMqTs05719pH
+    this.airtable_baseid = "appJmj0FaCfxEHaxs" // example: appYpPMqTs05719pH
   }
   
     // ----------------  Class Methods  ----------------
